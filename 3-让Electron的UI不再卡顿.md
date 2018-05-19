@@ -74,8 +74,8 @@ const diff = dmp.diff_main('dogs bark', 'cats bark')
 
 
 #### 参考学习
-https://www.zcfy.cc/article/multi-process-architecture-the-chromium-projects
-http://dev.chromium.org/developers/design-documents/inter-process-communication
-http://dev.chromium.org/developers/design-documents/displaying-a-web-page-in-chrome
-https://twitter.com/NumaanAshraf/status/968496732278374400
-https://medium.com/actualbudget/the-horror-of-blocking-electrons-main-process-351bf11a763c
+- https://www.zcfy.cc/article/multi-process-architecture-the-chromium-projects
+- http://dev.chromium.org/developers/design-documents/inter-process-communication
+- http://dev.chromium.org/developers/design-documents/displaying-a-web-page-in-chrome
+- https://twitter.com/NumaanAshraf/status/968496732278374400
+- https://medium.com/actualbudget/the-horror-of-blocking-electrons-main-process-351bf11a763c
